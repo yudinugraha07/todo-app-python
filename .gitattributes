@@ -1,0 +1,13 @@
+# Normalize line endings
+* text=auto
+
+# Python files
+*.py linguist-language=Python
+
+# Exclude binary files from diff
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
